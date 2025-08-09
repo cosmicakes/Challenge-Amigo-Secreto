@@ -32,8 +32,7 @@ Sortea: Una vez que todos los nombres estén en la lista, haz clic en el botón 
 🎬 Demostración de Uso
 A continuación, puedes ver un GIF que muestra cómo funciona la aplicación, desde la adición de nombres hasta el sorteo final.
 
+![Instrucciones](https://github.com/user-attachments/assets/364998bd-56c5-4f8a-9536-51ddb27fd38a)
 
 🤝 Autor
 cosmicakes
-
-[def]: Instrucciones.gif
